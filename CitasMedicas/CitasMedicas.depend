@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1721280258 source:c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\src\cita.cpp
+	"Cita.h"
+
+1721280258 c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\include\cita.h
+	"Cliente.h"
+	"Doctor.h"
+	"Hora.h"
+	<string>
+
+1721620336 c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\include\cliente.h
+	<string>
+	<iostream>
+	"Mascota.h"
+
+1721063668 c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\include\mascota.h
+	<string>
+	<iostream>
+
+1721620333 c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\include\doctor.h
+	<string>
+	<iostream>
+
+1721097681 c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\include\fecha.h
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1721620394 c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\include\hora.h
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+
+1721062782 source:c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\src\cliente.cpp
+	"Cliente.h"
+
+1721062046 source:c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\src\doctor.cpp
+	"Doctor.h"
+
+1721097681 source:c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\src\fecha.cpp
+	"Fecha.h"
+
+1721620424 source:c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\src\hora.cpp
+	"Hora.h"
+
+1721062692 source:c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\src\mascota.cpp
+	"Mascota.h"
+
+1721626564 source:c:\users\soler\onedrive - universidad estatal a distancia\documentos\documents\uned\diplomado informática\introducción a la programación\proyectos\citasmedicas\main.cpp
+	<iostream>
+	<vector>
+	"Cliente.h"
+	"Doctor.h"
+	"Mascota.h"
+	"Fecha.h"
+	"Hora.h"
+	"Cita.h"
+	<fstream>
+	<cstdlib>
+	<limits>
+	<algorithm>
+	<Windows.h>
+
